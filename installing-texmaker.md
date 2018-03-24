@@ -2,7 +2,7 @@ Title: Installing Texmaker under Debian
 Slug: installing-texmaker
 Date: 2018-03-21 17:14:36
 Tags: Latex
-Category: software
+Category: software, Debian, LaTex
 Authors: Elías Alejandro
 
 ![alt text](http://www.xm1math.net/texmaker/assets/portfolio/structure.png "Texmaker")
@@ -23,7 +23,7 @@ $ sudo aptitude install texmaker
 *Note: you can use apt-get to install your package like: sudo apt-get install texmaker*
 
 Ok, now I have a LaTex document and I'd like to create a pdf file. You can open your LaTex document
-(with TexMaker obviously :) and then clik on the Right Arrow (Run). If you get an error message like
+(with TexMaker obviously :) and then clik on the Right Arrow button (Run). If you get an error message like
 
 ```console
 ! Package babel Error: You haven't specified a language option.
