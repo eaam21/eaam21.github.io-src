@@ -1,4 +1,4 @@
-Title: Reading serial port with Python and Tkinter
+Title: Reading serial port with Python3 and Tkinter
 Slug: reading-serial-python-tkinter
 Date: 2018-04-08 14:00:00
 Tags: gnu/linux, python, tkinter, pyserial
