@@ -2,7 +2,7 @@ Title: Installing Texmaker under Debian
 Slug: installing-texmaker
 Date: 2018-03-21 17:14:36
 Tags: Latex
-Category: software, Debian, LaTex
+Category: Latex
 Authors: Elías Alejandro
 
 ![alt text](http://www.xm1math.net/texmaker/assets/portfolio/structure.png "Texmaker")
